@@ -11,7 +11,7 @@ public class ASSIGN1 {
 		{
 			num1=sc.nextDouble();}
 		System.out.println("Enter num2-");
-		if(sc.hasNextDouble());{
+		if(sc.hasNextDouble());
 		num2=sc.nextDouble();
 		}
         avg (num1,num2);
