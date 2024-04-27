@@ -1,4 +1,4 @@
-package tester;
+package com.app.geometry;
 import java.util.Scanner;
 import com.app.geometry.Point2D;
 
