@@ -5,7 +5,7 @@ public class Apple extends Fruits{
 	
 	public Apple() {}
 	public Apple(String name, double weight, String color) {
-		// TODO Auto-generated constructor stub
+		
 		super(color,weight,name);
 	}
 
